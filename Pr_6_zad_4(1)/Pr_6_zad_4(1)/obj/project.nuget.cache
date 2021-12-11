@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SIRLe5ezuLCnoi/VL1XjwHFueaukZ2ssoJRlLI2KW3biOo0X9B6lHRZautmQHp/rkySlFkJ7+nkb57njQ7AYTw==",
+  "success": true,
+  "projectFilePath": "D:\\Studia\\Pr_6_zad_4(1)\\Pr_6_zad_4(1)\\Pr_6_zad_4(1).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\АНДРЕЙ\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
