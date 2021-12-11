@@ -1,0 +1,14 @@
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\obj\Debug\netcoreapp3.1\Pr_6_zad_2.csproj.AssemblyReference.cache
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\obj\Debug\netcoreapp3.1\Pr_6_zad_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\obj\Debug\netcoreapp3.1\Pr_6_zad_2.AssemblyInfoInputs.cache
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\obj\Debug\netcoreapp3.1\Pr_6_zad_2.AssemblyInfo.cs
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\obj\Debug\netcoreapp3.1\Pr_6_zad_2.csproj.CoreCompileInputs.cache
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\bin\Debug\netcoreapp3.1\Pr_6_zad_2.exe
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\bin\Debug\netcoreapp3.1\Pr_6_zad_2.deps.json
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\bin\Debug\netcoreapp3.1\Pr_6_zad_2.runtimeconfig.json
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\bin\Debug\netcoreapp3.1\Pr_6_zad_2.runtimeconfig.dev.json
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\bin\Debug\netcoreapp3.1\Pr_6_zad_2.dll
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\bin\Debug\netcoreapp3.1\Pr_6_zad_2.pdb
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\obj\Debug\netcoreapp3.1\Pr_6_zad_2.dll
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\obj\Debug\netcoreapp3.1\Pr_6_zad_2.pdb
+D:\Studia\Pr_6_zad_2\Pr_6_zad_2\obj\Debug\netcoreapp3.1\Pr_6_zad_2.genruntimeconfig.cache
