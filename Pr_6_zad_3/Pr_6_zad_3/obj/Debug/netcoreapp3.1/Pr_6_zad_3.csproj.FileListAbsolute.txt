@@ -1,0 +1,14 @@
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\bin\Debug\netcoreapp3.1\Pr_6_zad_3.exe
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\bin\Debug\netcoreapp3.1\Pr_6_zad_3.deps.json
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\bin\Debug\netcoreapp3.1\Pr_6_zad_3.runtimeconfig.json
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\bin\Debug\netcoreapp3.1\Pr_6_zad_3.runtimeconfig.dev.json
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\bin\Debug\netcoreapp3.1\Pr_6_zad_3.dll
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\bin\Debug\netcoreapp3.1\Pr_6_zad_3.pdb
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\obj\Debug\netcoreapp3.1\Pr_6_zad_3.csproj.AssemblyReference.cache
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\obj\Debug\netcoreapp3.1\Pr_6_zad_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\obj\Debug\netcoreapp3.1\Pr_6_zad_3.AssemblyInfoInputs.cache
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\obj\Debug\netcoreapp3.1\Pr_6_zad_3.AssemblyInfo.cs
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\obj\Debug\netcoreapp3.1\Pr_6_zad_3.csproj.CoreCompileInputs.cache
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\obj\Debug\netcoreapp3.1\Pr_6_zad_3.dll
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\obj\Debug\netcoreapp3.1\Pr_6_zad_3.pdb
+D:\Studia\Pr_6_zad_3\Pr_6_zad_3\obj\Debug\netcoreapp3.1\Pr_6_zad_3.genruntimeconfig.cache
